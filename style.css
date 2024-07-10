@@ -66,3 +66,7 @@ p{
   justify-content: center;
   text-align: center;
 }
+.placeholder{
+  background-image:url(/pictures/handshake.jpg);
+   
+}
