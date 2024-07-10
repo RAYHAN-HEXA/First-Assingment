@@ -1,72 +1,24 @@
-.loop{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-image: url(/pictures/Hero-bg.png);
-  background-size: cover;
-  background-position: center;
-  padding: 30px;
+*{
 
- 
-}
-body{
+  padding: 0;
   margin: 0;
+}
+.loop{
+  margin: 26px 221px;
+
+  height: 795px;
+
+  width: auto;
+  background-image:url(pictures/Hero-bg.png) ;
   
 
-}
-.btn-primary{
-  color:black;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-size: 2em;
 
-  
-}
-.content1{
-  text-align: center;
-  background-color: darkgreen;
-  box-shadow: 0 0 30 px;
-  padding: 30px;
-  width: 100%;
-  border-radius: 8px;
-  
-  max-width: 500px;
- 
-}
-h2{
-  font-size: 2em;
-  line-height: 1.5;
-  color: black;
-
-}
-button:hover{
-  background-color: #0056b3;
-}
-p{
-  font-size: 1em;
-  line-height: 1.5em;
-  color:#444;
-
-}
-
-
-
-.footer-metarials{
-  width: 1140px;
-  height: 313px;
-  border-radius: 16px;
-  margin: auto;
-  background-image: linear-gradient url(pictures/handshake.jpg);
-  background-repeat: none;
-  background-position: center;
-  background-size: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   text-align: center;
 }
-.placeholder{
-  background-image:url(/pictures/handshake.jpg);
-   
-}
+.box{
+  font-family:  monospace;
+
+  font-optical-sizing: auto;
+
+  font-style: normal;}
+
